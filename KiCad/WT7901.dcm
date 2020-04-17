@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WT7901
+D The WT7901 is a monolithic bridge driver power MOSFET for its driver stage. It is provided with forward, reverse and brake functions and is ideal as a driver circuit for a motor that winds or rewinds the film in a camera.Drive current 2A, VDD, VM at 5V.
+$ENDCMP
+#
+#End Doc Library
